@@ -1,5 +1,5 @@
 # Deep-learning-Tensorflow-
-All Deep Learning (TensorFlow) Projects that I have completed are as fllow
+All Deep Learning (TensorFlow) Projects that I have completed are as follow
 
 01 -- Using custome neural netowrk binary image classifier of pizza and steak dataset:
 ## Model to built for netowrk binary image classifier of pizza and steak dataset
